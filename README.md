@@ -1,6 +1,6 @@
 # shirokumamake-blog-code
 
-[しろくまMake](https://shirokumamake.jp)の記事で紹介したコードをまとめています。
+[しろくまMake](https://shirokumamake.jp)の記事で掲載したコードをまとめています。
 
 ## 一覧
 
