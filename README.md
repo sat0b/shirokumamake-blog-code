@@ -4,5 +4,5 @@
 
 ## 一覧
 
-* 2024/6/30 [TypeSpecを使ってみるメモ](https://shirokumamake.jp/dev/20240630)
+* [TypeSpecを使ってみるメモ](https://shirokumamake.jp/dev/20240630)
   * [コード](./20240630/README.md)
