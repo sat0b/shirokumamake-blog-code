@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@typespec/openapi3": "^0.57.0"
+  },
+  "devDependencies": {
+    "orval": "^6.31.0"
   }
 }
