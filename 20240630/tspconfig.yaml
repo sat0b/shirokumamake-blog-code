@@ -1,0 +1,6 @@
+options:
+  "@typespec/openapi3":
+    emitter-output-dir: "{output-dir}"
+    output-file: "openapi.yml"
+
+output-dir: "{project-root}"
